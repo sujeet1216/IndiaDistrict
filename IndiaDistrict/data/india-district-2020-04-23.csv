@@ -1,0 +1,736 @@
+State,District,Confirmed,Recovered,Deaths,Active
+Andaman and Nicobar Islands,Nicobars,0,0,0,0
+Andaman and Nicobar Islands,North and Middle Andaman,1,1,0,0
+Andaman and Nicobar Islands,South Andaman,14,14,0,0
+Andhra Pradesh,Anantapur,29,27,0,2
+Andhra Pradesh,Chittoor,28,28,0,0
+Andhra Pradesh,East Godavari,24,24,0,0
+Andhra Pradesh,Guntur,128,124,0,4
+Andhra Pradesh,Krishna,75,71,0,4
+Andhra Pradesh,Kurnool,158,155,0,3
+Andhra Pradesh,Prakasam,44,44,0,0
+Andhra Pradesh,S.P.S. Nellore,68,65,1,2
+Andhra Pradesh,Srikakulam,0,0,0,0
+Andhra Pradesh,Visakhapatnam,21,15,6,0
+Andhra Pradesh,Vizianagaram,0,0,0,0
+Andhra Pradesh,West Godavari,35,35,0,0
+Andhra Pradesh,Y.S.R.,37,36,0,1
+Arunachal Pradesh,Anjaw,0,0,0,0
+Arunachal Pradesh,Changlang,0,0,0,0
+Arunachal Pradesh,East Kameng,0,0,0,0
+Arunachal Pradesh,East Siang,0,0,0,0
+Arunachal Pradesh,Kamle,0,0,0,0
+Arunachal Pradesh,Kra Daadi,0,0,0,0
+Arunachal Pradesh,Kurung Kumey,0,0,0,0
+Arunachal Pradesh,Lepa Rada,0,0,0,0
+Arunachal Pradesh,Lohit,1,1,0,0
+Arunachal Pradesh,Longding,0,0,0,0
+Arunachal Pradesh,Lower Dibang Valley,0,0,0,0
+Arunachal Pradesh,Lower Siang,0,0,0,0
+Arunachal Pradesh,Lower Subansiri,0,0,0,0
+Arunachal Pradesh,Namsai,0,0,0,0
+Arunachal Pradesh,Pakke Kessang,0,0,0,0
+Arunachal Pradesh,Papum Pare,0,0,0,0
+Arunachal Pradesh,Shi Yomi,0,0,0,0
+Arunachal Pradesh,Siang,0,0,0,0
+Arunachal Pradesh,Tawang,0,0,0,0
+Arunachal Pradesh,Tirap,0,0,0,0
+Arunachal Pradesh,Upper Dibang Valley,0,0,0,0
+Arunachal Pradesh,Upper Siang,0,0,0,0
+Arunachal Pradesh,Upper Subansiri,0,0,0,0
+Arunachal Pradesh,West Kameng,0,0,0,0
+Arunachal Pradesh,West Siang,0,0,0,0
+Assam,Baksa,0,0,0,0
+Assam,Barpeta,0,0,0,0
+Assam,Biswanath,0,0,0,0
+Assam,Bongaigaon,0,0,0,0
+Assam,Cachar,2,1,1,0
+Assam,Charaideo,0,0,0,0
+Assam,Chirang,0,0,0,0
+Assam,Darrang,0,0,0,0
+Assam,Dhemaji,0,0,0,0
+Assam,Dhubri,4,4,0,0
+Assam,Dibrugarh,0,0,0,0
+Assam,Dima Hasao,0,0,0,0
+Assam,Goalpara,4,4,0,0
+Assam,Golaghat,1,1,0,0
+Assam,Hailakandi,1,0,0,1
+Assam,Hojai,0,0,0,0
+Assam,Jorhat,8,8,0,0
+Assam,Kamrup,1,1,0,0
+Assam,Kamrup Metropolitan,6,4,2,0
+Assam,Karbi Anglong,0,0,0,0
+Assam,Karimganj,0,0,0,0
+Assam,Kokrajhar,0,0,0,0
+Assam,Lakhimpur,1,1,0,0
+Assam,Majuli,0,0,0,0
+Assam,Morigaon,3,3,0,0
+Assam,Nagaon,0,0,0,0
+Assam,Nalbari,3,3,0,0
+Assam,Sivasagar,0,0,0,0
+Assam,Sonitpur,0,0,0,0
+Assam,South Salmara Mancachar,1,1,0,0
+Assam,Tinsukia,0,0,0,0
+Assam,Udalguri,0,0,0,0
+Assam,West Karbi Anglong,0,0,0,0
+Bihar,Araria,0,0,0,0
+Bihar,Arwal,0,0,0,0
+Bihar,Aurangabad,28,24,1,3
+Bihar,Banka,0,0,0,0
+Bihar,Begusarai,9,8,1,0
+Bihar,Bhagalpur,1,0,1,0
+Bihar,Bhojpur,1,1,0,0
+Bihar,Buxar,4,4,0,0
+Bihar,Darbhanga,0,0,0,0
+Bihar,Gaya,5,2,3,0
+Bihar,Gopalganj,3,1,2,0
+Bihar,Jamui,0,0,0,0
+Bihar,Jehanabad,0,0,0,0
+Bihar,Kaimur Bhabua,0,0,0,0
+Bihar,Katihar,0,0,0,0
+Bihar,Khagaria,0,0,0,0
+Bihar,Kishanganj,0,0,0,0
+Bihar,Lakhisarai,1,0,1,0
+Bihar,Madhepura,0,0,0,0
+Bihar,Madhubani,0,0,0,0
+Bihar,Munger,20,13,6,1
+Bihar,Muzaffarpur,0,0,0,0
+Bihar,Nalanda,11,9,2,0
+Bihar,Nawada,3,2,1,0
+Bihar,West Champaran,0,0,0,0
+Bihar,Patna,7,2,5,0
+Bihar,East Champaran,0,0,0,0
+Bihar,Purnia,0,0,0,0
+Bihar,Rohtas,0,0,0,0
+Bihar,Saharsa,0,0,0,0
+Bihar,Samastipur,0,0,0,0
+Bihar,Saran,1,0,1,0
+Bihar,Sheikhpura,0,0,0,0
+Bihar,Sheohar,0,0,0,0
+Bihar,Sitamarhi,0,0,0,0
+Bihar,Siwan,29,23,6,0
+Bihar,Supaul,0,0,0,0
+Bihar,Vaishali,1,0,0,1
+Chandigarh,Chandigarh,26,24,2,0
+Chhattisgarh,Balod,0,0,0,0
+Chhattisgarh,Baloda Bazar,0,0,0,0
+Chhattisgarh,Balrampur,0,0,0,0
+Chhattisgarh,Bametara,0,0,0,0
+Chhattisgarh,Bastar,0,0,0,0
+Chhattisgarh,Bijapur,0,0,0,0
+Chhattisgarh,Bilaspur,1,0,1,0
+Chhattisgarh,Dakshin Bastar Dantewada,0,0,0,0
+Chhattisgarh,Dhamtari,0,0,0,0
+Chhattisgarh,Durg,1,0,1,0
+Chhattisgarh,Gariaband,0,0,0,0
+Chhattisgarh,Janjgir Champa,0,0,0,0
+Chhattisgarh,Jashpur,0,0,0,0
+Chhattisgarh,Kabeerdham,0,0,0,0
+Chhattisgarh,Kondagaon,0,0,0,0
+Chhattisgarh,Korba,28,23,5,0
+Chhattisgarh,Koriya,0,0,0,0
+Chhattisgarh,Mahasamund,0,0,0,0
+Chhattisgarh,Mungeli,0,0,0,0
+Chhattisgarh,Narayanpur,0,0,0,0
+Chhattisgarh,Raigarh,42,42,0,0
+Chhattisgarh,Raipur,5,0,5,0
+Chhattisgarh,Rajnandgaon,1,0,1,0
+Chhattisgarh,Sukma,0,0,0,0
+Chhattisgarh,Surajpur,0,0,0,0
+Chhattisgarh,Surguja,0,0,0,0
+Chhattisgarh,Uttar Bastar Kanker,0,0,0,0
+Dadra and Nagar Haveli,Dadra and Nagar Haveli,0,0,0,0
+Daman And Diu,Daman,0,0,0,0
+Daman And Diu,Diu,0,0,0,0
+Delhi,Central Delhi,0,0,0,0
+Delhi,East Delhi,1,1,0,0
+Delhi,New Delhi,5,5,0,0
+Delhi,North Delhi,3,3,0,0
+Delhi,North East Delhi,1,1,0,0
+Delhi,North West Delhi,3,3,0,0
+Delhi,Shahdara,0,0,0,0
+Delhi,South Delhi,26,26,0,0
+Delhi,South East Delhi,0,0,0,0
+Delhi,South West Delhi,3,3,0,0
+Delhi,West Delhi,2,2,0,0
+Goa,North Goa,4,4,0,0
+Goa,South Goa,0,0,0,0
+Gujarat,Ahmadabad,1101,1047,23,31
+Gujarat,Amreli,0,0,0,0
+Gujarat,Anand,28,23,3,2
+Gujarat,Aravalli,1,0,0,1
+Gujarat,Banas Kantha,10,9,1,0
+Gujarat,Bharuch,23,20,2,1
+Gujarat,Bhavnagar,32,14,14,4
+Gujarat,Botad,5,4,0,1
+Gujarat,Chota Udaipur,7,6,1,0
+Gujarat,Devbhumi Dwarka,0,0,0,0
+Gujarat,Dohad,0,0,0,0
+Gujarat,Gandhinagar,17,11,5,1
+Gujarat,Gir Somnath,2,1,1,0
+Gujarat,Jamnagar,1,0,0,1
+Gujarat,Junagadh,0,0,0,0
+Gujarat,Kachchh,4,3,0,1
+Gujarat,Kheda,2,2,0,0
+Gujarat,Mahesana,5,5,0,0
+Gujarat,Mahisagar,2,2,0,0
+Gujarat,Morbi,1,1,0,0
+Gujarat,Narmada,12,12,0,0
+Gujarat,Navsari,0,0,0,0
+Gujarat,Panch Mahals,9,7,0,2
+Gujarat,Patan,15,3,11,1
+Gujarat,Porbandar,3,1,2,0
+Gujarat,Rajkot,36,29,7,0
+Gujarat,Sabar Kantha,2,1,1,0
+Gujarat,Surat,242,226,8,8
+Gujarat,Surendranagar,0,0,0,0
+Gujarat,Tapi,0,0,0,0
+Gujarat,The Dangs,0,0,0,0
+Gujarat,Vadodara,180,168,5,7
+Gujarat,Valsad,0,0,0,0
+Haryana,Ambala,11,8,3,0
+Haryana,Bhiwani,3,1,2,0
+Haryana,Charki Dadri,1,0,1,0
+Haryana,Faridabad,42,23,19,0
+Haryana,Fatehabad,1,0,1,0
+Haryana,Gurugram,36,19,17,0
+Haryana,Hisar,2,2,0,0
+Haryana,Jhajjar,0,0,0,0
+Haryana,Jind,2,1,1,0
+Haryana,Kaithal,2,2,0,0
+Haryana,Karnal,6,0,5,1
+Haryana,Kurukshetra,2,2,0,0
+Haryana,Mahendragarh,0,0,0,0
+Haryana,Nuh,57,49,8,0
+Haryana,Palwal,34,17,17,0
+Haryana,Panchkula,17,15,2,0
+Haryana,Panipat,5,2,3,0
+Haryana,Rewari,0,0,0,0
+Haryana,Rohtak,1,1,0,0
+Haryana,Sirsa,4,0,4,0
+Haryana,Sonipat,7,7,0,0
+Haryana,Yamunanagar,3,0,3,0
+Himachal Pradesh,Bilaspur,1,0,1,0
+Himachal Pradesh,Chamba,6,3,3,0
+Himachal Pradesh,Hamirpur,0,0,0,0
+Himachal Pradesh,Kangra,5,5,0,0
+Himachal Pradesh,Kinnaur,0,0,0,0
+Himachal Pradesh,Kullu,0,0,0,0
+Himachal Pradesh,Lahul and Spiti,0,0,0,0
+Himachal Pradesh,Mandi,0,0,0,0
+Himachal Pradesh,Shimla,0,0,0,0
+Himachal Pradesh,Sirmaur,1,1,0,0
+Himachal Pradesh,Solan,9,8,0,1
+Himachal Pradesh,Una,15,15,0,0
+Jammu and Kashmir,Anantnag,2,2,0,0
+Jammu and Kashmir,Badgam,14,10,4,0
+Jammu and Kashmir,Bandipore,84,83,0,1
+Jammu and Kashmir,Baramula,44,43,0,1
+Jammu and Kashmir,Doda,0,0,0,0
+Jammu and Kashmir,Ganderbal,14,14,0,0
+Jammu and Kashmir,Jammu,26,26,0,0
+Jammu and Kashmir,Kathua,0,0,0,0
+Jammu and Kashmir,Kishtwar,1,1,0,0
+Jammu and Kashmir,Kulgam,6,6,0,0
+Jammu and Kashmir,Kupwara,31,31,0,0
+Jammu and Kashmir,Mirpur,0,0,0,0
+Jammu and Kashmir,Muzaffarabad,0,0,0,0
+Jammu and Kashmir,Pulwama,3,3,0,0
+Jammu and Kashmir,Punch,0,0,0,0
+Jammu and Kashmir,Rajouri,4,4,0,0
+Jammu and Kashmir,Ramban,0,0,0,0
+Jammu and Kashmir,Reasi,0,0,0,0
+Jammu and Kashmir,Samba,4,4,0,0
+Jammu and Kashmir,Shupiyan,22,22,0,0
+Jammu and Kashmir,Srinagar,79,74,5,0
+Jammu and Kashmir,Udhampur,20,19,0,1
+Jharkhand,Bokaro,9,8,0,1
+Jharkhand,Chatra,0,0,0,0
+Jharkhand,Deoghar,0,0,0,0
+Jharkhand,Dhanbad,2,2,0,0
+Jharkhand,Dumka,0,0,0,0
+Jharkhand,Garhwa,0,0,0,0
+Jharkhand,Giridih,1,1,0,0
+Jharkhand,Godda,0,0,0,0
+Jharkhand,Gumla,0,0,0,0
+Jharkhand,Hazaribagh,2,2,0,0
+Jharkhand,Jamtara,0,0,0,0
+Jharkhand,Khunti,0,0,0,0
+Jharkhand,Kodarma,1,1,0,0
+Jharkhand,Latehar,0,0,0,0
+Jharkhand,Lohardaga,0,0,0,0
+Jharkhand,Pakur,0,0,0,0
+Jharkhand,Palamu,0,0,0,0
+Jharkhand,Pashchimi Singhbhum,0,0,0,0
+Jharkhand,Purbi Singhbhum,0,0,0,0
+Jharkhand,Ramgarh,0,0,0,0
+Jharkhand,Ranchi,24,23,0,1
+Jharkhand,Sahibganj,0,0,0,0
+Jharkhand,Saraikela-Kharsawan,0,0,0,0
+Jharkhand,Simdega,2,2,0,0
+Karnataka,Bagalkote,21,20,0,1
+Karnataka,Ballari,13,13,0,0
+Karnataka,Belagavi,42,41,0,1
+Karnataka,Bengaluru,91,81,6,4
+Karnataka,Bengaluru Rural,10,10,0,0
+Karnataka,Bidar,14,14,0,0
+Karnataka,Chamarajanagara,0,0,0,0
+Karnataka,Chikkaballapura,16,15,0,1
+Karnataka,Chikkamagaluru,0,0,0,0
+Karnataka,Chitradurga,0,-1,1,0
+Karnataka,Dakshina Kannada,14,13,0,1
+Karnataka,Davanagere,3,2,1,0
+Karnataka,Dharwad,7,7,0,0
+Karnataka,Gadag,3,2,0,1
+Karnataka,Hassan,0,0,0,0
+Karnataka,Haveri,0,0,0,0
+Karnataka,Kalaburagi,22,20,0,2
+Karnataka,Kodagu,1,1,0,0
+Karnataka,Kolar,0,0,0,0
+Karnataka,Koppal,0,0,0,0
+Karnataka,Mandya,12,12,0,0
+Karnataka,Mysuru,84,84,0,0
+Karnataka,Raichur,0,0,0,0
+Karnataka,Ramanagara,0,0,0,0
+Karnataka,Shivamogga,0,0,0,0
+Karnataka,Tumakuru,2,2,0,0
+Karnataka,Udupi,3,3,0,0
+Karnataka,Uttara Kannada,11,10,1,0
+Karnataka,Vijayapura,21,20,0,1
+Karnataka,Yadgir,0,0,0,0
+Kerala,Alappuzha,5,3,2,0
+Kerala,Ernakulam,24,8,16,0
+Kerala,Idukki,10,3,7,0
+Kerala,Kannur,87,48,39,0
+Kerala,Kasaragod,169,57,112,0
+Kerala,Kollam,9,6,3,0
+Kerala,Kottayam,3,2,1,0
+Kerala,Kozhikode,20,10,10,0
+Kerala,Malappuram,20,7,13,0
+Kerala,Palakkad,8,6,2,0
+Kerala,Pathanamthitta,17,11,6,0
+Kerala,Thiruvananthapuram,14,8,5,1
+Kerala,Thrissur,13,0,13,0
+Kerala,Wayanad,3,1,2,0
+Ladakh,Kargil,4,3,1,0
+Ladakh,Leh,14,13,1,0
+Lakshadweep,Lakshadweep,0,0,0,0
+Madhya Pradesh,Agar Malwa,4,4,0,0
+Madhya Pradesh,Alirajpur,1,1,0,0
+Madhya Pradesh,Anuppur,0,0,0,0
+Madhya Pradesh,Ashoknagar,0,0,0,0
+Madhya Pradesh,Balaghat,0,0,0,0
+Madhya Pradesh,Barwani,22,22,0,0
+Madhya Pradesh,Betul,2,2,0,0
+Madhya Pradesh,Bhind,0,0,0,0
+Madhya Pradesh,Bhopal,197,193,0,4
+Madhya Pradesh,Burhanpur,0,0,0,0
+Madhya Pradesh,Chhatarpur,0,0,0,0
+Madhya Pradesh,Chhindwara,4,3,0,1
+Madhya Pradesh,Damoh,0,0,0,0
+Madhya Pradesh,Datia,0,0,0,0
+Madhya Pradesh,Dewas,18,13,0,5
+Madhya Pradesh,Dhar,10,10,0,0
+Madhya Pradesh,Dindori,0,0,0,0
+Madhya Pradesh,Khandwa,33,33,0,0
+Madhya Pradesh,Guna,0,0,0,0
+Madhya Pradesh,Gwalior,6,6,0,0
+Madhya Pradesh,Harda,0,0,0,0
+Madhya Pradesh,Hoshangabad,19,19,0,0
+Madhya Pradesh,Indore,841,805,0,36
+Madhya Pradesh,Jabalpur,13,9,4,0
+Madhya Pradesh,Jhabua,0,0,0,0
+Madhya Pradesh,Katni,0,0,0,0
+Madhya Pradesh,Mandla,0,0,0,0
+Madhya Pradesh,Mandsaur,8,8,0,0
+Madhya Pradesh,Morena,14,14,0,0
+Madhya Pradesh,Narsimhapur,0,0,0,0
+Madhya Pradesh,Neemuch,0,0,0,0
+Madhya Pradesh,Niwari,0,0,0,0
+Madhya Pradesh,Panna,0,0,0,0
+Madhya Pradesh,Raisen,8,8,0,0
+Madhya Pradesh,Rajgarh,0,0,0,0
+Madhya Pradesh,Ratlam,12,12,0,0
+Madhya Pradesh,Rewa,0,0,0,0
+Madhya Pradesh,Sagar,1,1,0,0
+Madhya Pradesh,Satna,2,2,0,0
+Madhya Pradesh,Sehore,0,0,0,0
+Madhya Pradesh,Seoni,0,0,0,0
+Madhya Pradesh,Shahdol,0,0,0,0
+Madhya Pradesh,Shajapur,5,5,0,0
+Madhya Pradesh,Sheopur,3,3,0,0
+Madhya Pradesh,Shivpuri,2,2,0,0
+Madhya Pradesh,Sidhi,0,0,0,0
+Madhya Pradesh,Singrauli,0,0,0,0
+Madhya Pradesh,Tikamgarh,1,1,0,0
+Madhya Pradesh,Ujjain,31,29,0,2
+Madhya Pradesh,Umaria,0,0,0,0
+Madhya Pradesh,Vidisha,13,13,0,0
+Madhya Pradesh,Khargone,39,38,0,1
+Maharashtra,Ahmadnagar,29,26,1,2
+Maharashtra,Akola,15,14,0,1
+Maharashtra,Amravati,6,5,0,1
+Maharashtra,Aurangabad,28,24,1,3
+Maharashtra,Bhandara,0,0,0,0
+Maharashtra,Bid,1,1,0,0
+Maharashtra,Buldana,21,20,0,1
+Maharashtra,Chandrapur,2,2,0,0
+Maharashtra,Dhule,1,0,0,1
+Maharashtra,Gadchiroli,0,0,0,0
+Maharashtra,Gondiya,1,1,0,0
+Maharashtra,Hingoli,1,1,0,0
+Maharashtra,Jalgaon,2,2,0,0
+Maharashtra,Jalna,2,2,0,0
+Maharashtra,Kolhapur,5,5,0,0
+Maharashtra,Latur,8,8,0,0
+Maharashtra,Mumbai,2268,2130,14,124
+Maharashtra,Mumbai Suburban,0,-1,0,1
+Maharashtra,Nagpur,60,55,4,1
+Maharashtra,Nanded,0,0,0,0
+Maharashtra,Nandurbar,1,1,0,0
+Maharashtra,Nashik,53,48,0,5
+Maharashtra,Osmanabad,3,3,0,0
+Maharashtra,Palghar,83,80,0,3
+Maharashtra,Parbhani,1,1,0,0
+Maharashtra,Pune,591,535,16,40
+Maharashtra,Raigarh,42,42,0,0
+Maharashtra,Ratnagiri,6,6,0,0
+Maharashtra,Sangli,26,26,0,0
+Maharashtra,Satara,11,10,0,1
+Maharashtra,Sindhudurg,1,1,0,0
+Maharashtra,Solapur,14,12,0,2
+Maharashtra,Thane,341,331,1,9
+Maharashtra,Wardha,0,0,0,0
+Maharashtra,Washim,1,1,0,0
+Maharashtra,Yavatmal,13,10,3,0
+Manipur,Bishnupur,0,0,0,0
+Manipur,Chandel,0,0,0,0
+Manipur,Churachandpur,0,0,0,0
+Manipur,Imphal East,1,1,0,0
+Manipur,Imphal West,1,1,0,0
+Manipur,Jiribam,0,0,0,0
+Manipur,Kakching,0,0,0,0
+Manipur,Kamjong,0,0,0,0
+Manipur,Kangpokpi,0,0,0,0
+Manipur,Noney,0,0,0,0
+Manipur,Pherzawl,0,0,0,0
+Manipur,Senapati,0,0,0,0
+Manipur,Tamenglong,0,0,0,0
+Manipur,Tengnoupal,0,0,0,0
+Manipur,Thoubal,0,0,0,0
+Manipur,Ukhrul,0,0,0,0
+Meghalaya,East Garo Hills,0,0,0,0
+Meghalaya,East Jaintia Hills,0,0,0,0
+Meghalaya,East Khasi Hills,7,7,0,0
+Meghalaya,North Garo Hills,0,0,0,0
+Meghalaya,Ribhoi,0,0,0,0
+Meghalaya,South Garo Hills,0,0,0,0
+Meghalaya,South West Garo Hills,0,0,0,0
+Meghalaya,South West Khasi Hills,0,0,0,0
+Meghalaya,West Garo Hills,0,0,0,0
+Meghalaya,West Jaintia Hills,0,0,0,0
+Meghalaya,West Khasi Hills,0,0,0,0
+Mizoram,Aizawl,1,1,0,0
+Mizoram,Champhai,0,0,0,0
+Mizoram,Kolasib,0,0,0,0
+Mizoram,Lawngtlai,0,0,0,0
+Mizoram,Lunglei,0,0,0,0
+Mizoram,Mamit,0,0,0,0
+Mizoram,Saiha,0,0,0,0
+Mizoram,Serchhip,0,0,0,0
+Nagaland,Dimapur,0,0,0,0
+Nagaland,Kiphire,0,0,0,0
+Nagaland,Kohima,0,0,0,0
+Nagaland,Longleng,0,0,0,0
+Nagaland,Mokokchung,0,0,0,0
+Nagaland,Mon,0,0,0,0
+Nagaland,Peren,0,0,0,0
+Nagaland,Phek,0,0,0,0
+Nagaland,Tuensang,0,0,0,0
+Nagaland,Wokha,0,0,0,0
+Nagaland,Zunheboto,0,0,0,0
+Odisha,Anugul,0,0,0,0
+Odisha,Balangir,0,0,0,0
+Odisha,Baleshwar,1,1,0,0
+Odisha,Bargarh,0,0,0,0
+Odisha,Baudh,0,0,0,0
+Odisha,Bhadrak,3,3,0,0
+Odisha,Cuttack,1,1,0,0
+Odisha,Debagarh,0,0,0,0
+Odisha,Dhenkanal,1,1,0,0
+Odisha,Gajapati,0,0,0,0
+Odisha,Ganjam,0,0,0,0
+Odisha,Jagatsinghapur,0,0,0,0
+Odisha,Jajapur,2,2,0,0
+Odisha,Jharsuguda,0,0,0,0
+Odisha,Kalahandi,2,2,0,0
+Odisha,Kandhamal,0,0,0,0
+Odisha,Kendrapara,2,2,0,0
+Odisha,Kendujhar,0,0,0,0
+Odisha,Khordha,46,38,7,1
+Odisha,Koraput,0,0,0,0
+Odisha,Malkangiri,0,0,0,0
+Odisha,Mayurbhanj,0,0,0,0
+Odisha,Nabarangapur,0,0,0,0
+Odisha,Nayagarh,0,0,0,0
+Odisha,Nuapada,0,0,0,0
+Odisha,Puri,1,1,0,0
+Odisha,Rayagada,0,0,0,0
+Odisha,Sambalpur,0,0,0,0
+Odisha,Subarnapur,0,0,0,0
+Odisha,Sundargarh,2,2,0,0
+Puducherry,Karaikal,0,0,0,0
+Puducherry,Mahe,1,0,1,0
+Puducherry,Puducherry,6,5,1,0
+Puducherry,Yanam,0,0,0,0
+Punjab,Amritsar,11,8,1,2
+Punjab,Barnala,2,1,1,0
+Punjab,Bathinda,0,0,0,0
+Punjab,Faridkot,3,2,1,0
+Punjab,Fatehgarh Sahib,2,2,0,0
+Punjab,Fazilka,0,0,0,0
+Punjab,Firozpur,1,1,0,0
+Punjab,Gurdaspur,2,2,0,0
+Punjab,Hoshiarpur,7,4,2,1
+Punjab,Jalandhar,47,45,0,2
+Punjab,Kapurthala,2,2,0,0
+Punjab,Ludhiana,15,10,0,5
+Punjab,Mansa,11,11,0,0
+Punjab,Moga,4,4,0,0
+Punjab,Pathankot,24,24,0,0
+Punjab,Patiala,26,25,1,0
+Punjab,Rupnagar,3,2,0,1
+Punjab,S.A.S. Nagar,61,56,3,2
+Punjab,Sangrur,3,3,0,0
+Punjab,Shahid Bhagat Singh Nagar,19,18,1,0
+Punjab,Sri Muktsar Sahib,1,1,0,0
+Punjab,Tarn Taran,0,0,0,0
+Rajasthan,Ajmer,23,23,0,0
+Rajasthan,Alwar,7,7,0,0
+Rajasthan,Banswara,60,60,0,0
+Rajasthan,Baran,0,0,0,0
+Rajasthan,Barmer,1,1,0,0
+Rajasthan,Bharatpur,102,102,0,0
+Rajasthan,Bhilwara,29,29,0,0
+Rajasthan,Bikaner,37,36,0,1
+Rajasthan,Bundi,0,0,0,0
+Rajasthan,Chittaurgarh,0,0,0,0
+Rajasthan,Churu,14,14,0,0
+Rajasthan,Dausa,13,13,0,0
+Rajasthan,Dhaulpur,1,1,0,0
+Rajasthan,Dungarpur,5,5,0,0
+Rajasthan,Ganganagar,0,0,0,0
+Rajasthan,Hanumangarh,3,3,0,0
+Rajasthan,Jaipur,535,530,0,5
+Rajasthan,Jaisalmer,32,32,0,0
+Rajasthan,Jalore,0,0,0,0
+Rajasthan,Jhalawar,20,20,0,0
+Rajasthan,Jhunjhunu,37,37,0,0
+Rajasthan,Jodhpur,228,228,0,0
+Rajasthan,Karauli,3,3,0,0
+Rajasthan,Kota,99,98,0,1
+Rajasthan,Nagaur,58,58,0,0
+Rajasthan,Pali,2,2,0,0
+Rajasthan,Pratapgarh,8,8,0,0
+Rajasthan,Rajsamand,0,0,0,0
+Rajasthan,Sawai Madhopur,4,4,0,0
+Rajasthan,Sikar,2,2,0,0
+Rajasthan,Sirohi,0,0,0,0
+Rajasthan,Tonk,95,94,0,1
+Rajasthan,Udaipur,4,4,0,0
+Sikkim,East District,0,0,0,0
+Sikkim,North District,0,0,0,0
+Sikkim,South District,0,0,0,0
+Sikkim,West District,0,0,0,0
+Tamil Nadu,Ariyalur,1,1,0,0
+Tamil Nadu,Chennai,290,283,0,7
+Tamil Nadu,Coimbatore,133,128,5,0
+Tamil Nadu,Cuddalore,26,26,0,0
+Tamil Nadu,Dharmapuri,0,0,0,0
+Tamil Nadu,Dindigul,74,74,0,0
+Tamil Nadu,Erode,70,69,0,1
+Tamil Nadu,Kancheepuram,8,8,0,0
+Tamil Nadu,Kanniyakumari,16,16,0,0
+Tamil Nadu,Karur,41,41,0,0
+Tamil Nadu,Krishnagiri,0,0,0,0
+Tamil Nadu,Madurai,46,46,0,0
+Tamil Nadu,Nagapattinam,43,43,0,0
+Tamil Nadu,Namakkal,50,50,0,0
+Tamil Nadu,Perambalur,4,4,0,0
+Tamil Nadu,Pudukkottai,0,0,0,0
+Tamil Nadu,Ramanathapuram,10,10,0,0
+Tamil Nadu,Salem,24,24,0,0
+Tamil Nadu,Sivaganga,11,11,0,0
+Tamil Nadu,Thanjavur,45,45,0,0
+Tamil Nadu,The Nilgiris,9,9,0,0
+Tamil Nadu,Theni,44,43,0,1
+Tamil Nadu,Thiruvallur,47,47,0,0
+Tamil Nadu,Thiruvarur,27,27,0,0
+Tamil Nadu,Thoothukkudi,26,25,0,1
+Tamil Nadu,Tiruchirappalli,46,46,0,0
+Tamil Nadu,Tirunelveli,64,64,0,0
+Tamil Nadu,Tiruppur,108,108,0,0
+Tamil Nadu,Tiruvannamalai,8,8,0,0
+Tamil Nadu,Vellore,23,22,0,1
+Tamil Nadu,Viluppuram,37,36,0,1
+Tamil Nadu,Virudhunagar,19,19,0,0
+Telangana,Adilabad,16,16,0,0
+Telangana,Bhadradri Kothagudem,4,4,0,0
+Telangana,Hyderabad,486,475,1,10
+Telangana,Jagitial,3,3,0,0
+Telangana,Jangoan,2,2,0,0
+Telangana,Jayashankar,3,3,0,0
+Telangana,Jogulamba Gadwal,26,26,0,0
+Telangana,Kamareddy,11,11,0,0
+Telangana,Karimnagar,19,19,0,0
+Telangana,Khammam,7,7,0,0
+Telangana,Kumuram Bheem Asifabad,3,3,0,0
+Telangana,Mahabubabad,1,1,0,0
+Telangana,Mahabubnagar,11,11,0,0
+Telangana,Mancherial,0,0,0,0
+Telangana,Medak,5,5,0,0
+Telangana,Medchal Malkajgiri,6,6,0,0
+Telangana,Mulugu,2,2,0,0
+Telangana,Nagarkurnool,2,2,0,0
+Telangana,Nalgonda,15,15,0,0
+Telangana,Narayanpet,0,0,0,0
+Telangana,Nirmal,17,17,0,0
+Telangana,Nizamabad,58,58,0,0
+Telangana,Peddapalli,2,2,0,0
+Telangana,Rajanna Sircilla,3,3,0,0
+Telangana,Ranga Reddy,25,25,0,0
+Telangana,Sangareddy,7,7,0,0
+Telangana,Siddipet,1,1,0,0
+Telangana,Suryapet,43,43,0,0
+Telangana,Vikarabad,37,37,0,0
+Telangana,Wanaparthy,0,0,0,0
+Telangana,Warangal Rural,0,0,0,0
+Telangana,Warangal Urban,21,21,0,0
+Telangana,Yadadri Bhuvanagiri,0,0,0,0
+Tripura,Dhalai,0,0,0,0
+Tripura,Gomati,1,1,0,0
+Tripura,Khowai,0,0,0,0
+Tripura,North Tripura,1,1,0,0
+Tripura,Sipahijala,0,0,0,0
+Tripura,South Tripura,0,0,0,0
+Tripura,Unokoti,0,0,0,0
+Tripura,West Tripura,0,0,0,0
+Uttar Pradesh,Agra,242,229,8,5
+Uttar Pradesh,Aligarh,0,0,0,0
+Uttar Pradesh,Ambedkar Nagar,0,0,0,0
+Uttar Pradesh,Amethi,0,0,0,0
+Uttar Pradesh,Amroha,10,10,0,0
+Uttar Pradesh,Auraiya,6,6,0,0
+Uttar Pradesh,Azamgarh,7,7,0,0
+Uttar Pradesh,Baghpat,15,15,0,0
+Uttar Pradesh,Bahraich,0,0,0,0
+Uttar Pradesh,Ballia,0,0,0,0
+Uttar Pradesh,Balrampur,0,0,0,0
+Uttar Pradesh,Banda,3,3,0,0
+Uttar Pradesh,Bara Banki,1,1,0,0
+Uttar Pradesh,Bareilly,6,6,0,0
+Uttar Pradesh,Basti,19,18,0,1
+Uttar Pradesh,Bhadohi,1,1,0,0
+Uttar Pradesh,Bijnor,22,22,0,0
+Uttar Pradesh,Budaun,8,8,0,0
+Uttar Pradesh,Bulandshahr,15,14,0,1
+Uttar Pradesh,Chandauli,0,0,0,0
+Uttar Pradesh,Chitrakoot,0,0,0,0
+Uttar Pradesh,Deoria,0,0,0,0
+Uttar Pradesh,Etah,0,0,0,0
+Uttar Pradesh,Etawah,3,3,0,0
+Uttar Pradesh,Faizabad,0,0,0,0
+Uttar Pradesh,Farrukhabad,0,0,0,0
+Uttar Pradesh,Fatehpur,0,0,0,0
+Uttar Pradesh,Firozabad,48,48,0,0
+Uttar Pradesh,Gautam Buddha Nagar,95,85,10,0
+Uttar Pradesh,Ghaziabad,41,38,3,0
+Uttar Pradesh,Ghazipur,5,5,0,0
+Uttar Pradesh,Gonda,1,1,0,0
+Uttar Pradesh,Gorakhpur,0,0,0,0
+Uttar Pradesh,Hamirpur,0,0,0,0
+Uttar Pradesh,Hapur,16,16,0,0
+Uttar Pradesh,Hardoi,2,2,0,0
+Uttar Pradesh,Hathras,4,4,0,0
+Uttar Pradesh,Jalaun,0,0,0,0
+Uttar Pradesh,Jaunpur,5,5,0,0
+Uttar Pradesh,Jhansi,0,0,0,0
+Uttar Pradesh,Kannauj,5,5,0,0
+Uttar Pradesh,Kanpur Dehat,0,0,0,0
+Uttar Pradesh,Kanpur Nagar,30,29,0,1
+Uttar Pradesh,Kasganj,3,3,0,0
+Uttar Pradesh,Kaushambi,2,2,0,0
+Uttar Pradesh,Kheri,4,3,1,0
+Uttar Pradesh,Kushinagar,0,0,0,0
+Uttar Pradesh,Lalitpur,0,0,0,0
+Uttar Pradesh,Lucknow,162,160,1,1
+Uttar Pradesh,Mahoba,0,0,0,0
+Uttar Pradesh,Mahrajganj,6,6,0,0
+Uttar Pradesh,Mainpuri,4,4,0,0
+Uttar Pradesh,Mathura,4,4,0,0
+Uttar Pradesh,Mau,1,1,0,0
+Uttar Pradesh,Meerut,74,63,9,2
+Uttar Pradesh,Mirzapur,4,4,0,0
+Uttar Pradesh,Moradabad,57,55,0,2
+Uttar Pradesh,Muzaffarnagar,7,7,0,0
+Uttar Pradesh,Pilibhit,2,1,1,0
+Uttar Pradesh,Pratapgarh,8,8,0,0
+Uttar Pradesh,Prayagraj,1,1,0,0
+Uttar Pradesh,Rae Bareli,2,2,0,0
+Uttar Pradesh,Rampur,14,14,0,0
+Uttar Pradesh,Saharanpur,72,72,0,0
+Uttar Pradesh,Sambhal,7,7,0,0
+Uttar Pradesh,Sant Kabir Nagar,1,1,0,0
+Uttar Pradesh,Shahjahanpur,1,1,0,0
+Uttar Pradesh,Shamli,23,22,1,0
+Uttar Pradesh,Shrawasti,0,0,0,0
+Uttar Pradesh,Siddharthnagar,0,0,0,0
+Uttar Pradesh,Sitapur,17,17,0,0
+Uttar Pradesh,Sonbhadra,0,0,0,0
+Uttar Pradesh,Sultanpur,0,0,0,0
+Uttar Pradesh,Unnao,1,1,0,0
+Uttar Pradesh,Varanasi,14,13,0,1
+Uttarakhand,Almora,1,1,0,0
+Uttarakhand,Bageshwar,0,0,0,0
+Uttarakhand,Chamoli,0,0,0,0
+Uttarakhand,Champawat,0,0,0,0
+Uttarakhand,Dehradun,22,22,0,0
+Uttarakhand,Haridwar,7,7,0,0
+Uttarakhand,Nainital,9,9,0,0
+Uttarakhand,Pauri Garhwal,1,1,0,0
+Uttarakhand,Pithoragarh,0,0,0,0
+Uttarakhand,Rudraprayag,0,0,0,0
+Uttarakhand,Tehri Garhwal,0,0,0,0
+Uttarakhand,Udham Singh Nagar,4,4,0,0
+Uttarakhand,Uttarkashi,0,0,0,0
+West Bengal,Alipurduar,0,0,0,0
+West Bengal,Bankura,0,0,0,0
+West Bengal,Birbhum,0,0,0,0
+West Bengal,Cooch Behar,0,0,0,0
+West Bengal,Dakshin Dinajpur,0,0,0,0
+West Bengal,Darjeeling,0,0,0,0
+West Bengal,Hooghly,1,1,0,0
+West Bengal,Howrah,1,0,0,1
+West Bengal,Jalpaiguri,0,0,0,0
+West Bengal,Jhargram,0,0,0,0
+West Bengal,Kalimpong,1,0,0,1
+West Bengal,Kolkata,11,11,0,0
+West Bengal,Maldah,0,0,0,0
+West Bengal,Medinipur West,0,0,0,0
+West Bengal,Murshidabad,0,0,0,0
+West Bengal,Nadia,5,5,0,0
+West Bengal,North 24 Parganas,4,3,0,1
+West Bengal,Paschim Bardhaman,0,0,0,0
+West Bengal,Purba Bardhaman,0,0,0,0
+West Bengal,Medinipur East,3,3,0,0
+West Bengal,Purulia,0,0,0,0
+West Bengal,South 24 Parganas,1,1,0,0
+West Bengal,Uttar Dinajpur,0,0,0,0
+Mizoram,,0,0,0,0
+Mizoram,,0,0,0,0
+Mizoram,,0,0,0,0
+Tamil Nadu,Tenkasi,19,19,0,0
+Tamil Nadu,Chengalpattu,50,50,0,0
+Tamil Nadu,Ranipet,38,38,0,0
+Tamil Nadu,Kallakurichi,3,3,0,0
+Tamil Nadu,Tirupathur,17,17,0,0
